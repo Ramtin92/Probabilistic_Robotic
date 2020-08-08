@@ -1,6 +1,6 @@
 # Image-Based Particle Filter for Drone Localization 
-@auhtor: Ramtin Hossein
-Date:       03.02.20
+	@auhtor: Ramtin Hossein
+	Date:       03.02.20
 
 ## Installed Packages:
 	numpy
