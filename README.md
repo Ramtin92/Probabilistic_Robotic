@@ -2,7 +2,7 @@
 	@auhtor: Ramtin Hossein
 	Date:       03.02.20
 
-## Installed Packages:
+## Installed packages:
 	numpy
 	cv2
 	copy
